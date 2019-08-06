@@ -1,4 +1,4 @@
-# Gmail Batch Reply
+# Gmail™ Batch Reply
 A firefox extension that makes it possible to reply to all selected conversations in Gmail™ at once.
 
 Simply go to https://mail.google.com/, select conversations you want to reply to, and click the "Reply" button at the top of the screen!
