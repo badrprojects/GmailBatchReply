@@ -1,0 +1,25 @@
+{
+
+    "manifest_version": 2,
+    "name": "Gmail Batch Replay",
+    "version": "1.0",
+  
+    "description": "Adds a batch replay button to gmail",
+  
+    "icons": {
+      "48": "icons/48.png",
+      "96": "icons/96.png"
+    },
+
+    
+  
+    "content_scripts": [
+      {
+        "matches": ["*://mail.google.com/*"],
+        "css":["css/style.css"],
+        "js": ["scripts/jquery-3.4.1.min.js", "scripts/gmail_batch_replay.js"],
+        "run_at": "document_end"
+      }
+    ]
+  
+}
