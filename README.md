@@ -5,5 +5,5 @@ Simply go to https://mail.google.com/, select conversations you want to reply to
 
 Gmail™ is a registered trademark of Google. This extension is unaffiliated with Google.
 
-# FireFox Page
+# Firefox Add-on Page
 https://addons.mozilla.org/en-US/firefox/addon/gmail-batch-replay/
